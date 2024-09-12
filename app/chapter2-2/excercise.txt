@@ -1,0 +1,13 @@
+Exercises:
+
+Add types for all of the functions we created until now
+
+Change the implementation of the HTML functions we built to use el instead
+
+Add a couple more functions for defining paragraphs and headings:
+
+p_ which uses the tag <p> for paragraphs
+h1_ which uses the tag <h1> for headings
+Replace our Hello, world! string with richer content, use h1_ and p_. We can append HTML strings created by h1_ and p_ using the append operator <>.
+
+Bonus: rewrite a couple of functions using lambda functions, just for fun!
